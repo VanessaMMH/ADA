@@ -1,0 +1,1 @@
+Mostramos el objeto 0x7ffcb7410d60
